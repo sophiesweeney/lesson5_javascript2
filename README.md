@@ -4,20 +4,19 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(November 01, 2018)
 
 ### Student Name:  
-(First and Last Name)
+(Sophie Sweeney)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(In this assignment I created a currency calculator that lets users quickly determine the exchange rate of the US dollar to other currencies around the world.)
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+( https://sophiesweeney.github.io/lesson5_javascript2/ )
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. How to use the getElementById() method to reference elements on web pages using id values
+2. How to use a switch statement to make a descion
+3. How to associate an event with an HTML element and define the event handler 
 
